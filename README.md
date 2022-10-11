@@ -6,7 +6,7 @@
 * [cgi.di.uoa.gr/~izambo/oop.html](https://cgi.di.uoa.gr/~izambo/oop.html)
 * [w3schools.com](https://www.w3schools.com)
 * [cplusplus.com](https://cplusplus.com)
-* [cppreference.com](cppreference.com)
+* [cppreference.com](https://en.cppreference.com/w/)
 
 ---
 
