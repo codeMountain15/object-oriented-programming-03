@@ -1,4 +1,4 @@
-// operator_pr01.cpp
+// operator_priority01.cpp
 
 #include <iostream>
 
