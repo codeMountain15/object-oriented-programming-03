@@ -16,7 +16,7 @@ int main()
     a.push_back(4);
     a.push_back(5);
 
-    for (vector<int>::iterator itr = a.begin(); itr != a.end(); ++itr)
+    for (vector<int>::iterator itr = a.begin(); itr != a.end(); itr++)
         cout << *itr << endl;
 
     return 0;
