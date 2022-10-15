@@ -5,6 +5,8 @@
 * δομή πολλαπλής επιλογής (switch)
 * τελεστές
 
+* συναρτήσεις
+
 
 ## Πηγές
 * [cgi.di.uoa.gr/~izambo/oop.html](https://cgi.di.uoa.gr/~izambo/oop.html)
