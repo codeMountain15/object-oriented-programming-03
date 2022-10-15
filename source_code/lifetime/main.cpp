@@ -17,5 +17,10 @@ int main() {
     func();
     cout << "Value of num from main() - 3rd call: " << func() << "\n\n";
 
+     {
+        int num = 200;
+        cout << endl << num << endl;
+    }
+    
     return 0;
 }
