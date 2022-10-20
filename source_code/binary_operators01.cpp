@@ -6,8 +6,8 @@ using namespace std;
 
 int main() {
     
-    // a1 = 2 (00000010)
-    // a2 = 7 (00000111)
+    // a1 = 2 -> binary: 00000010
+    // a2 = 7 -> binary: 00000111
     
     int a1 = 2, a2 = 7;
 
