@@ -23,7 +23,7 @@ int main() {
         break;
     case 3:
         cout << "Exiting the program";
-        break;
+        //break;
     }
 
     return 0;
